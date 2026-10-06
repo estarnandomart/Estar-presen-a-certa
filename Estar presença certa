@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123B5D">
+  <meta name="description" content="ESTAR – Presença Certa">
+  <title>ESTAR – Presença Certa</title>
+</head>
+
+<body>
+
+  <header>
+    <h1>ESTAR</h1>
+    <p>PRESENÇA CERTA</p>
+  </header>
+
+  <main>
+
+    <section>
+      <p>CUIDADO • PRESENÇA • CONFIANÇA</p>
+
+      <h2>
+        Seu amor presente,<br>
+        mesmo à distância.
+      </h2>
+
+      <p>
+        Encontre profissionais preparados para cuidar,
+        acompanhar e resolver o que você precisa,
+        com segurança e acolhimento.
+      </p>
+
+      <button>Encontrar um serviço</button>
+      <button>Quero ser profissional</button>
+    </section>
+
+    <section>
+      <h2>Como podemos ajudar</h2>
+
+      <article>
+        <h3>❤️ Cuidado e companhia</h3>
+        <p>
+          Presença, acompanhamento e apoio para quem você ama.
+        </p>
+      </article>
+
+      <article>
+        <h3>🏠 Serviços residenciais</h3>
+        <p>
+          Profissionais para manutenção, organização e pequenos serviços.
+        </p>
+      </article>
+
+      <article>
+        <h3>✓ Apoio e assistência</h3>
+        <p>
+          Ajuda prática para necessidades do dia a dia.
+        </p>
+      </article>
+
+      <article>
+        <h3>✦ Outros profissionais</h3>
+        <p>
+          Encontre especialistas conforme sua necessidade.
+        </p>
+      </article>
+
+    </section>
+
+    <section>
+      <h2>Nossos valores</h2>
+
+      <h3>Cuidado humano</h3>
+      <p>Pessoas cuidando de pessoas.</p>
+
+      <h3>Presença que acolhe</h3>
+      <p>Mais tranquilidade para quem está perto ou longe.</p>
+
+      <h3>Confiança que tranquiliza</h3>
+      <p>Uma experiência simples, clara e segura.</p>
+    </section>
+
+    <section>
+      <h2>Faça parte da ESTAR</h2>
+
+      <p>
+        Você tem uma profissão e quer ajudar pessoas?
+      </p>
+
+      <button>Quero me cadastrar</button>
+    </section>
+
+  </main>
+
+  <footer>
+    <strong>ESTAR – Presença Certa</strong>
+    <p>Seu amor presente, mesmo à distância.</p>
+  </footer>
+
+</body>
+</html>
